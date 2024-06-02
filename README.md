@@ -9,6 +9,8 @@ Netflix TV Shows
 Netflix Series
 Netflix Ratings
 
+
+
 This dashboard provides an insightful look into various aspects of Netflix's vast library. Whether you're curious about the most popular shows, highest-rated movies, or trends in different genres, this dashboard has it all.
 
 🔗 Check it out here: https://public.tableau.com/views/NetflixProject_17157995008470/Netflix?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
